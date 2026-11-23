@@ -1,0 +1,21 @@
+# Gradle & build outputs
+.gradle/
+build/
+app/build/
+
+# Local machine paths
+local.properties
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+.cxx/
+captures/
+.externalNativeBuild/
+
+# Keystores & logs
+*.jks
+*.keystore
+*.log
+.DS_Store
+Thumbs.db

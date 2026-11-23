@@ -1,0 +1,36 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="320dp"
+    android:height="180dp"
+    android:viewportWidth="320"
+    android:viewportHeight="180">
+    <path
+        android:fillColor="#090C10"
+        android:pathData="M0,0h320v180h-320z" />
+    <path
+        android:fillColor="#121A24"
+        android:pathData="M16,16h288v148h-288z" />
+    <!-- Aura emblem -->
+    <path
+        android:pathData="M96,62 C110,48 134,48 148,62"
+        android:strokeWidth="6"
+        android:strokeColor="#00E5A0"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M106,74 C115,65 129,65 138,74"
+        android:strokeWidth="6"
+        android:strokeColor="#7C5CFF"
+        android:strokeLineCap="round" />
+    <path
+        android:fillColor="#00E5A0"
+        android:pathData="M111,84 L142,102 L111,120 Z" />
+    <!-- Geometric bars representing TV guide -->
+    <path
+        android:fillColor="#00E5A0"
+        android:pathData="M170,66h92v12h-92z" />
+    <path
+        android:fillColor="#7C5CFF"
+        android:pathData="M170,88h68v10h-68z" />
+    <path
+        android:fillColor="#2C394B"
+        android:pathData="M170,108h82v10h-82z" />
+</vector>
